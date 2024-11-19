@@ -1,6 +1,6 @@
 # Arhivi nisu (samo) papiri
 
-Vodič za digitalnu transformaciju ahiva.
+Vodič i praktične smjernice za digitalnu transformaciju ahiva.
 
 ## Ciljevi digitalne transformacije arhiva
 
